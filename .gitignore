@@ -2,3 +2,8 @@
 Main/.vs/Main/v16/Browse.VC.opendb
 Main/x64*/
 Main/.vs*/
+.vs/slnx.sqlite
+.vs/VSWorkspaceState.json
+Main/.vs/Main/v16/Browse.VC.db
+Main/.vs/Main/v16/Browse.VC.db-shm
+Main/.vs/Main/v16/Browse.VC.db-wal
