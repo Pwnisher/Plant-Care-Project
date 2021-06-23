@@ -1,7 +1,7 @@
-
-Main/.vs/Main/v16/Browse.VC.opendb
+Main/.vs/Main/v16*/
 Main/x64*/
 Main/.vs*/
+Main/.vs/Main/v16/Browse.VC.opendb
 .vs/slnx.sqlite
 .vs/VSWorkspaceState.json
 Main/.vs/Main/v16/Browse.VC.db
@@ -11,3 +11,8 @@ Main/.vs/Main/v16/Browse.VC.db-wal
 Main/.vs/Main/v16/Browse.VC.db-shm
 Main/.vs/Main/v16/Browse.VC.db
 .vs/slnx.sqlite
+Main/.vs/Main/v16/Browse.VC.db-shm
+Main/.vs/Main/v16/Browse.VC.db
+.vs/slnx.sqlite
+.vs/Plant-Care-Project/v16/Browse.VC.db
+.vs/Plant-Care-Project/v16/.suo
